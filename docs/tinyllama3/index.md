@@ -1,6 +1,6 @@
 # TinyLlama3 Project
 
-The TinyLlama3 is a modern recreation of the best that late DOS/early Windows 98 computing had to offer, with the support of MXM graphic cards, visit the [Vogons thread][vogons-thread].
+The TinyLlama3 is a modern recreation of the best that late DOS/early Windows 98 computing had to offer, with the support for MXM graphic cards, visit the [Vogons thread][vogons-thread].
 
 ## Documentation Contents
 coming soon
